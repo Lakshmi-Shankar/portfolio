@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "John — Reality Bending Engineer",
+  title: "Lakshmi Shankar - Portfolio",
   description: "A portfolio that behaves like a living system.",
 };
 
